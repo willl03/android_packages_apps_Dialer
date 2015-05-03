@@ -20,5 +20,5 @@
     http://www.dreptonline.ro/legislatie/codul_procedura_civila_consolidat.php
     http://www.dreptonline.ro/legislatie/codul_procedura_penala_2007.php -->
 <resources>
-
+    <bool name="call_recording_enabled">true</bool>
 </resources>

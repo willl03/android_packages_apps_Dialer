@@ -18,5 +18,5 @@
 <!--Allow recording for country: France-->
 <!--Legal precedent source: http://levesquelavoie.com/2011/11/la-legalite-de-lenregistrement-dune-conversation/-->
 <resources>
-
+    <bool name="call_recording_enabled">true</bool>
 </resources>
